@@ -1,0 +1,10 @@
+mitreattack|Knowledge base of adversary tactics, techniques, and procedures (TTPs).
+cvedetails|CVE vulnerability database with severity, exploitability, and product mapping.
+exploitdb|Public archive of exploits, shellcodes, and security advisories.
+owasp|Open security standards, documentation, and top vulnerability lists.
+portswigger|Web security learning platform and vulnerability research hub.
+attck-navigator|Visualization and analysis tool for MITRE ATT&CK matrices.
+nist-nvd|Official US government vulnerability database with CVSS scoring.
+vulners|Aggregated vulnerability intelligence and exploit correlation platform.
+packetstorm|Repository of security tools, exploits, advisories, and whitepapers.
+threatcrowd|Threat intelligence platform for domain, IP, and indicator correlation.

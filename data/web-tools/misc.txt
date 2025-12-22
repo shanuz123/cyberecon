@@ -1,0 +1,10 @@
+mitreattack|https://attack.mitre.org
+cvedetails|https://www.cvedetails.com
+exploitdb|https://www.exploit-db.com
+owasp|https://owasp.org
+portswigger|https://portswigger.net/web-security
+attck-navigator|https://mitre-attack.github.io/attack-navigator
+nist-nvd|https://nvd.nist.gov
+vulners|https://vulners.com
+packetstorm|https://packetstormsecurity.com
+threatcrowd|https://threatcrowd.org

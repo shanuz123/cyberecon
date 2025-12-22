@@ -1,0 +1,17 @@
+ghdb|Google search queries for discovering exposed files and sensitive information.
+shodan|Search engine for internet-connected devices and exposed services.
+censys|Internet-wide asset discovery using host and certificate data.
+crtsh|Certificate Transparency log search for subdomain enumeration.
+dnsdumpster|DNS reconnaissance and domain mapping service.
+securitytrails|DNS history and subdomain intelligence platform.
+publicwww|Search engine for source code indexed from public websites.
+wayback|Historical website snapshots for content and endpoint discovery.
+netcraft|Infrastructure, DNS, and hosting intelligence service.
+fofa|Global cyberspace search engine for exposed assets.
+zoomeye|Internet asset search engine focused on network exposure.
+urlscan|URL scanning and behavior analysis platform.
+fullhunt|External attack surface discovery and asset intelligence.
+binaryedge|Internet-wide scanning and exposure detection platform.
+hunterhow|Asset intelligence and exposure analysis service.
+builtwith|Website technology stack identification tool.
+wappalyzer|Web application technology fingerprinting tool.

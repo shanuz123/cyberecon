@@ -1,0 +1,13 @@
+hunter|https://hunter.io
+intelx|https://intelx.io
+hibp|https://haveibeenpwned.com
+phonebook|https://phonebook.cz
+socialsearcher|https://www.social-searcher.com
+dehashed|https://www.dehashed.com
+leakcheck|https://leakcheck.io
+snusbase|https://snusbase.com
+epieos|https://epieos.com
+thatsthem|https://thatsthem.com
+truecaller|https://www.truecaller.com
+whatsmyname|https://whatsmyname.app
+namechk|https://namechk.com

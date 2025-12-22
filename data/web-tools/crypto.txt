@@ -1,0 +1,7 @@
+boxentriq|https://www.boxentriq.com
+crackstation|https://crackstation.net
+cryptii|https://cryptii.com
+dcode|https://www.dcode.fr
+hashes|https://hashes.com/en/decrypt/hash
+quipqiup|https://quipqiup.com
+xorcalc|https://xor.pw

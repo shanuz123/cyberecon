@@ -1,0 +1,9 @@
+payloadsallthethings|https://github.com/swisskyrepo/PayloadsAllTheThings
+gtfobins|https://gtfobins.github.io
+lolbas|https://lolbas-project.github.io
+revshells|https://www.revshells.com
+hacktricks|https://book.hacktricks.xyz
+payloadbox|https://github.com/payloadbox
+onelinerhub|https://onelinerhub.com
+shellerator|https://shellerator.github.io
+reverse-shell|https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet

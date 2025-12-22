@@ -1,0 +1,9 @@
+payloadsallthethings|Comprehensive payload collection for exploiting common vulnerabilities.
+gtfobins|Linux binary exploitation techniques for privilege escalation.
+lolbas|Windows living-off-the-land binaries for execution and persistence.
+revshells|Reverse shell command generator for multiple languages and environments.
+hacktricks|Practical offensive security knowledge base and exploitation techniques.
+payloadbox|Collection of payloads for fuzzing and vulnerability testing.
+onelinerhub|One-line command reference for scripting and exploitation tasks.
+shellerator|Reverse shell generator with encoding and obfuscation options.
+reverse-shell|Reverse shell cheat sheet covering multiple platforms and languages.

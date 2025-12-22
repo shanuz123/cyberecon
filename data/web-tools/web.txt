@@ -1,0 +1,14 @@
+cyberchef|https://gchq.github.io/CyberChef/
+jwt|https://jwt.io
+regex101|https://regex101.com
+jsonformatter|https://jsonformatter.org
+requestbin|https://requestbin.com
+webhook|https://webhook.site
+httpbin|https://httpbin.org
+requestcatcher|https://requestcatcher.com
+csp-evaluator|https://csp-evaluator.withgoogle.com
+securityheaders|https://securityheaders.com
+observatory|https://observatory.mozilla.org
+ssltest|https://www.ssllabs.com/ssltest
+csrf-generator|https://csrf-generator.com
+jwtdebugger|https://jwt.io

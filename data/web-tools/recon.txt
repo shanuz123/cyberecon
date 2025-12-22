@@ -1,0 +1,17 @@
+ghdb|https://www.exploit-db.com/google-hacking-database
+shodan|https://www.shodan.io
+censys|https://search.censys.io
+crtsh|https://crt.sh
+dnsdumpster|https://dnsdumpster.com
+securitytrails|https://securitytrails.com
+publicwww|https://publicwww.com
+wayback|https://web.archive.org
+netcraft|https://searchdns.netcraft.com
+fofa|https://fofa.info
+zoomeye|https://www.zoomeye.org
+urlscan|https://urlscan.io
+fullhunt|https://fullhunt.io
+binaryedge|https://www.binaryedge.io
+hunterhow|https://hunter.how
+builtwith|https://builtwith.com
+wappalyzer|https://www.wappalyzer.com

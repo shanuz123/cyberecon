@@ -1,0 +1,14 @@
+cyberchef|Data analysis and transformation tool for encoding, decoding, and forensics.
+jwt|JSON Web Token debugger and encoder/decoder.
+regex101|Regular expression testing and debugging environment.
+jsonformatter|JSON formatting, validation, and beautification tool.
+requestbin|HTTP request inspection and debugging service.
+webhook|Webhook request capture and inspection platform.
+httpbin|HTTP request and response testing service.
+requestcatcher|Temporary endpoint for capturing HTTP requests.
+csp-evaluator|Content Security Policy analysis and security evaluation tool.
+securityheaders|HTTP security header analysis and grading service.
+observatory|Mozilla web security configuration assessment tool.
+ssltest|SSL/TLS configuration analysis and vulnerability detection service.
+csrf-generator|CSRF proof-of-concept request generation tool.
+jwtdebugger|JSON Web Token inspection, decoding, and validation tool.
