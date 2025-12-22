@@ -12,8 +12,8 @@
 
 ---
 
-![CYBERECON Demo](https://raw.githubusercontent.com/<your-username>/cyberecon/main/assets/demo.gif)
-*(Replace the URL above with your actual GIF link once uploaded)*
+![CYBERECON Demo](https://raw.githubusercontent.com/shanuz123/cyberecon/main/assets/demo.gif)
+
 
 </div>
 
@@ -74,7 +74,7 @@ sudo apt update && sudo apt install gum
 1. Clone the Repository
 
 ```Bash
-git clone [https://github.com/](https://github.com/)<your-username>/cyberecon.git
+git clone https://github.com/shanuz123/cyberecon.git
 cd cyberecon
 ```    
 2. Run the Installer
