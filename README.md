@@ -51,82 +51,79 @@ cyberecon/
 ├── install.sh                   # Automated setup script
 ├── README.md                    # Project documentation
 └── LICENSE                      # Legal permissions
-
-⚙️ Prerequisites
+```
+## ⚙️ Prerequisites
 
 To enjoy the full interactive experience, ensure you have the following:
 
-    OS: Linux (Kali Linux, Parrot, or Ubuntu recommended)
+ -OS: Linux (Kali Linux, Parrot, or Ubuntu recommended)
+ -Shell: Bash (v4+)
+ -Browser: Firefox (Default) or any CLI-compatible browser
+ -UI Engine: gum by Charm
 
-    Shell: Bash (v4+)
+Install Gum
 
-    Browser: Firefox (Default) or any CLI-compatible browser
+```Bash
+# For Debian/Ubuntu/Kali
+sudo mkdir -p /etc/apt/keyrings
+curl -fsSL [https://repo.charm.sh/apt/gpg.key](https://repo.charm.sh/apt/gpg.key) | sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg
+echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] [https://repo.charm.sh/apt/](https://repo.charm.sh/apt/) * *" | sudo tee /etc/apt/sources.list.d/charm.list
+sudo apt update && sudo apt install gum
+```
+## 🚀 Installation & Usage
+1. Clone the Repository
 
-    UI Engine: gum by Charm
+```Bash
+git clone [https://github.com/](https://github.com/)<your-username>/cyberecon.git
+cd cyberecon
+```    
+2. Run the Installer
 
-    Install Gum
-    Bash
+```Bash
+chmod +x install.sh
+./install.sh
+```
+3. Launch the Framework
+   
+```Bash
+cyberecon
+```
+## 🎯 Use Cases
     
-    # For Debian/Ubuntu/Kali
-    sudo mkdir -p /etc/apt/keyrings
-    curl -fsSL [https://repo.charm.sh/apt/gpg.key](https://repo.charm.sh/apt/gpg.key) | sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg
-    echo "deb [signed-by=/etc/apt/keyrings/charm.gpg] [https://repo.charm.sh/apt/](https://repo.charm.sh/apt/) * *" | sudo tee /etc/apt/sources.list.d/charm.list
-    sudo apt update && sudo apt install gum
-
-    🚀 Installation & Usage
-    1. Clone the Repository
-    Bash
+Web Reconnaissance: Rapidly identify subdomains, tech stacks, and vulnerabilities.
     
-    git clone [https://github.com/](https://github.com/)<your-username>/cyberecon.git
-    cd cyberecon
+ OSINT Collection: Deep-dive into usernames, emails, and social metadata.
     
-    2. Run the Installer
-    Bash
+CTF Preparation: Quickly access encoding/decoding tools and payload generators.
     
-    chmod +x install.sh
-    ./install.sh
+Training: An organized library for students to discover industry-standard tools.
     
-    3. Launch the Framework
-    Bash
+## 📌 Roadmap
     
-    cyberecon
+-[x] Global Search: Search for any tool across all categories instantly.
     
-    🎯 Use Cases
+-[ ] Target Variables: Set a target domain once and pass it to all web tools automatically.
     
-        Web Reconnaissance: Rapidly identify subdomains, tech stacks, and vulnerabilities.
+-[ ] Clipboard Support: Copy URLs to clipboard instead of just opening the browser.
     
-        OSINT Collection: Deep-dive into usernames, emails, and social metadata.
+-[ ] Custom Themes: Change the color palette of the UI via a config file.
     
-        CTF Preparation: Quickly access encoding/decoding tools and payload generators.
+## 🤝 Contributing
     
-        Training: An organized library for students to discover industry-standard tools.
+Contributions make the open-source community an amazing place to learn and create.
     
-    📌 Roadmap
+Fork the Project
     
-        [ ] Global Search: Search for any tool across all categories instantly.
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
     
-        [ ] Target Variables: Set a target domain once and pass it to all web tools automatically.
+Commit your Changes (git commit -m 'Add some AmazingFeature')
     
-        [ ] Clipboard Support: Copy URLs to clipboard instead of just opening the browser.
+Push to the Branch (git push origin feature/AmazingFeature)
     
-        [ ] Custom Themes: Change the color palette of the UI via a config file.
+Open a Pull Request
     
-    🤝 Contributing
+## ⚠️ Disclaimer
     
-    Contributions make the open-source community an amazing place to learn and create.
+[!WARNING] CYBERECON is intended strictly for educational and authorized security testing. The author is not responsible for misuse or illegal activity. Always obtain proper authorization before testing any system.
     
-        Fork the Project
-    
-        Create your Feature Branch (git checkout -b feature/AmazingFeature)
-    
-        Commit your Changes (git commit -m 'Add some AmazingFeature')
-    
-        Push to the Branch (git push origin feature/AmazingFeature)
-    
-        Open a Pull Request
-    
-    ⚠️ Disclaimer
-    
-        [!WARNING] CYBERECON is intended strictly for educational and authorized security testing. The author is not responsible for misuse or illegal activity. Always obtain proper authorization before testing any system.
-    
-    <div align="center"> Built with ❤️ by <b>YourName</b> </div>
+<div align="center"> Built with ❤️ by <b>Shanavas Shafi</b> </div>
