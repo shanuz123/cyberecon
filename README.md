@@ -56,10 +56,10 @@ cyberecon/
 
 To enjoy the full interactive experience, ensure you have the following:
 
- -OS: Linux (Kali Linux, Parrot, or Ubuntu recommended)
- -Shell: Bash (v4+)
- -Browser: Firefox (Default) or any CLI-compatible browser
- -UI Engine: gum by Charm
+ - OS: Linux (Kali Linux, Parrot, or Ubuntu recommended)
+ - Shell: Bash (v4+)
+ - Browser: Firefox (Default) or any CLI-compatible browser
+ - UI Engine: gum by Charm
 
 Install Gum
 
@@ -90,37 +90,30 @@ cyberecon
 ```
 ## 🎯 Use Cases
     
-Web Reconnaissance: Rapidly identify subdomains, tech stacks, and vulnerabilities.
-    
- OSINT Collection: Deep-dive into usernames, emails, and social metadata.
-    
-CTF Preparation: Quickly access encoding/decoding tools and payload generators.
-    
-Training: An organized library for students to discover industry-standard tools.
+- Web Reconnaissance: Rapidly identify subdomains, tech stacks, and vulnerabilities.   
+- OSINT Collection: Deep-dive into usernames, emails, and social metadata.  
+- CTF Preparation: Quickly access encoding/decoding tools and payload generators. 
+- Training: An organized library for students to discover industry-standard tools.
     
 ## 📌 Roadmap
     
--[x] Global Search: Search for any tool across all categories instantly.
+- [x] Global Search: Search for any tool across all categories instantly.
     
--[ ] Target Variables: Set a target domain once and pass it to all web tools automatically.
+- [ ] Target Variables: Set a target domain once and pass it to all web tools automatically.
     
--[ ] Clipboard Support: Copy URLs to clipboard instead of just opening the browser.
+- [ ] Clipboard Support: Copy URLs to clipboard instead of just opening the browser.
     
--[ ] Custom Themes: Change the color palette of the UI via a config file.
+- [ ] Custom Themes: Change the color palette of the UI via a config file.
     
 ## 🤝 Contributing
     
 Contributions make the open-source community an amazing place to learn and create.
     
-Fork the Project
-    
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-    
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-    
-Push to the Branch (git push origin feature/AmazingFeature)
-    
-Open a Pull Request
+- Fork the Project
+- Create your Feature Branch `git checkout -b feature/AmazingFeature`
+- Commit your Changes `git commit -m 'Add some AmazingFeature'`
+- Push to the Branch `git push origin feature/AmazingFeature`   
+- Open a Pull Request
     
 ## ⚠️ Disclaimer
     
