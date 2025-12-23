@@ -34,13 +34,13 @@ sudo mkdir -p "$INSTALL_DIR"
 # 3. Copy files
 # -----------------------------
 echo "[*] Copying CYBERECON files..."
-sudo cp -r scripts tools "$INSTALL_DIR"
+sudo cp -r bin data "$INSTALL_DIR"
 
 # -----------------------------
 # 4. Fix permissions
 # -----------------------------
 echo "[*] Setting executable permissions..."
-sudo chmod +x "$INSTALL_DIR/scripts/bash/cyberecon.sh"
+sudo chmod +x "$INSTALL_DIR/bin/cyberecon.sh"
 
 # -----------------------------
 # 5. Create launcher
@@ -48,7 +48,7 @@ sudo chmod +x "$INSTALL_DIR/scripts/bash/cyberecon.sh"
 echo "[*] Creating launcher: $LAUNCHER"
 sudo tee "$LAUNCHER" >/dev/null <<EOF
 #!/bin/bash
-exec "$INSTALL_DIR/scripts/bash/cyberecon.sh" "\$@"
+exec "$INSTALL_DIR/bin/cyberecon.sh" "\$@"
 EOF
 
 sudo chmod +x "$LAUNCHER"
